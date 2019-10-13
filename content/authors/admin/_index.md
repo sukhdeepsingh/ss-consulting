@@ -29,9 +29,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Bioinformatics/Computational Epigenetics (Magna cum Laude)
+    institution: BIOTEC - Technical University of Dresden (joint with MPI-CBG)
+    year: 2016
+    thesis: Investigating Genome Wide Dynamics of H3K4 Methyltransferases in Mouse Embryonic Stem Cells.
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -63,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sukhdeepsingh.bio@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

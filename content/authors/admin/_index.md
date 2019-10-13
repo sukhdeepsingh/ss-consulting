@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Bioinformatics/Computational Epigenetics (Magna cum Laude)
-    institution: BIOTEC - Technical University of Dresden (joint with MPI-CBG)
+  - course: PhD in Computational Epigenetics (Magna cum Laude)
+    institution: BIOTEC - Technical University of Dresden (with MPI-CBG), Germany
     year: 2016
     thesis: Investigating Genome Wide Dynamics of H3K4 Methyltransferases in Mouse Embryonic Stem Cells.
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Bioinformatics (Merit)
+    institution: University of Leicester, UK
+    year: 2010
+  - course: B.Tech in Biotechnology (First Class Honours)
+    institution: Kurukshetra University, India
     year: 2008
 
 # Social/Academic Networking
@@ -73,4 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Currently working as Bioinformatics Scientist at HZPC Research B.V. where I have been creating and managing advanced Bioinformatics infrastructure to assist in state of art plant breeding.My research experience includes Epigenetics, plant/mammalian Bioinformatics, marker discovery, genome assemblies and addressing complex scientific questions using computation. I have developed scalable computational pipelines to handle and analyze genomics big data employing High-Performance computing. I have led sundry high value projects including infrastructure development, grant acquisition, Agile based customized project solutions with several visualization paradigms and HPC/cloud deployments. I have substantial experience with team building, global networking, public relations, innovation and technology scouting. I have worked in diverse settings where I have gained extensive computational, leadership, independency and entrepreneurial/corporate skills in a broad range scientific international environment.
+Bioinformatics Scientist at HZPC Research B.V. where I have been creating and managing advanced Bioinformatics infrastructure to assist in state of art plant breeding.
+
+My research experience includes Epigenetics, plant/mammalian Bioinformatics, marker discovery, genome assemblies and addressing complex scientific questions using computation. I have developed scalable computational pipelines to handle and analyze genomics big data employing High-Performance computing. 
+
+I have led sundry high value projects including infrastructure development, grant acquisition, Agile based customized project solutions with several visualization paradigms and HPC/cloud deployments. I have substantial experience with team building, global networking, public relations, innovation and technology scouting. I have worked in diverse settings where I have gained extensive computational, leadership, independency and entrepreneurial/corporate skills in a broad range scientific international environment.

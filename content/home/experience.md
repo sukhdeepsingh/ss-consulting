@@ -27,9 +27,19 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Strategic Bioinformatics and Data Consultations for short, mid and long term projects.
+  * New generation Hardware and Software deployment with modern practices.
+  * Supporting colleagues with customized genomics and bioinformatics solutions.
+  * Innovation/technology scouting for various research departments and multitudes of new/current scientific projects.
+  * High Performance Computing and cloud solutions.
+  * Funding acquisitions and furnishing grants to universities and collaborative projects.
+  * Chairing and co-ordinating project collaborations((inter-) national plant breeding and genomics consortiums).
+  * Technology scouting, deployments and global level networking.
+  * Initiating and managing high level projects and delegations with deliveries based on Agile practices.
+  * Company research activities propagation and PR in international conventions and meeting.
+  * Team development and supervision, conflict resolution while channelizing harmony among personnel.
+  * Regular activities with respect to masterclass and workshops (organization and representation).
+  * Company wide idea deployments and driving force in office modernization.
   """
 
 [[experience]]

@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "HZPC Research B.V."
   company_url = "https://www.hzpc.com/"
   location = "Metslawier, The Netherlands"
-  date_start = "Mar, 2017"
-  date_end = "Nov, 2019"
+  date_start = "2017-03-15"
+  date_end = "2019-10-31"
   description = """
   Responsibilities include:
   

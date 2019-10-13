@@ -50,7 +50,8 @@ date_format = "Jan 2006"
   date_start = "2011-07-01"
   date_end = "2017-03-01"
   description = """
-  We provide several layers of functional information and detailed genomic insights on shared and specific roles of Set1C and Mll1-2 and the dynamics of transcriptomic and epigenetic changes in the ground, primed and differentiated mouse embryonic stem cells (mESCs) states. Our future endeavors will be to map the effect of absence of enzymes constituting the Set1/Trithorax-type H3K4 methyltransferases, in the developed layers, which will help to deduce further involvement of these enzymes and their specific roles, finally investigating how do they contribute to changes in the epigenetic landscape in mESCs
+  We provide several layers of functional information and detailed genomic insights on shared and specific roles of Set1C and Mll1-2 and the dynamics of transcriptomic and epigenetic changes in the ground, primed and differentiated mouse embryonic stem cells (mESCs) states. Our future endeavors will be to map the effect of absence of enzymes constituting the Set1/Trithorax-type H3K4 methyltransferases, in the developed layers, which will help to deduce further involvement of these enzymes and their specific roles, finally investigating how do they contribute to changes in the epigenetic landscape in mESCs.
+
   Responsibilities include:
   
   * Creating, maintaining and updating of automated ChIP-Seq and RNA-Seq computational pipelines for handling and analysis of NGS data-sets utilizing High-Performance Computing (HPC).

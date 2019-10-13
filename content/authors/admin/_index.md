@@ -14,8 +14,10 @@ role: Consultant at [The Hyve](http://thehyve.nl)
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute of Cell Biology and Genetics
+- name: TUD || Max Planck Institute of Cell Biology and Genetics
   url: "https://www.mpi-cbg.de/home/"
+- name: Imperial College London
+  url: "http://www.imperial.ac.uk/people/b.asquith"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bioinformatician, Data Scientist, DJ, Adventurer and a Globetrotter.

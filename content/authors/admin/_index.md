@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Bioinformatics Scientist at HZPC Research B.V. where I have been creating and managing advanced Bioinformatics infrastructure to assist in state of art plant breeding.
+Bioinformatics Scientist at [HZPC Research B.V.](https://www.hzpc.com/) where I have been creating and managing advanced Bioinformatics infrastructure to assist in state of art plant breeding.
 
 My research experience includes Epigenetics, plant/mammalian Bioinformatics, marker discovery, genome assemblies and addressing complex scientific questions using computation. I have developed scalable computational pipelines to handle and analyze genomics big data employing High-Performance computing. 
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sukhdeep Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Consultant at The Hyve
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Max Planck Institute of Cell Biology and Genetics
+  url: "https://www.mpi-cbg.de/home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Bioinformatician, Data Scientist, DJ, Adventurer and a Globetrotter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics
+- Genomics
+- Healthcare
+- Data Science
 
 education:
   courses:
@@ -70,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently working as Bioinformatics Scientist at HZPC Research B.V. where I have been creating and managing advanced Bioinformatics infrastructure to assist in state of art plant breeding.My research experience includes Epigenetics, plant/mammalian Bioinformatics, marker discovery, genome assemblies and addressing complex scientific questions using computation. I have developed scalable computational pipelines to handle and analyze genomics big data employing High-Performance computing. I have led sundry high value projects including infrastructure development, grant acquisition, Agile based customized project solutions with several visualization paradigms and HPC/cloud deployments. I have substantial experience with team building, global networking, public relations, innovation and technology scouting. I have worked in diverse settings where I have gained extensive computational, leadership, independency and entrepreneurial/corporate skills in a broad range scientific international environment.

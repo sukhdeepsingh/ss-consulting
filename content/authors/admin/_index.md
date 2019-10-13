@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Consultant at The Hyve
+role: Consultant at [The Hyve](http://thehyve.nl)
 
 # Organizations/Affiliations
 organizations:

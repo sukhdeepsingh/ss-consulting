@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Strategic Bioinformatics and Data Consultations for short, mid and long term projects.
+  * Analysing
   * Modelling
   * Deploying
   """

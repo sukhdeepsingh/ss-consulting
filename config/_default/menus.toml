@@ -28,6 +28,8 @@
   url = "#contact"
   weight = 60
 
+<a class="twitter-timeline" href="https://twitter.com/uksurd?ref_src=twsrc%5Etfw">Tweets by uksurd</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
